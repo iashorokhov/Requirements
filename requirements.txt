@@ -1,0 +1,10 @@
+matplotlib==3.3.4
+numpy==1.20.1
+pandas==1.2.4
+scikit-learn==0.24.1
+sqlalchemy==1.4.15
+catboost==1.0.3
+pyspark==3.0.2
+torch==1.10.0
+transformers==4.12.5
+tensorflow==2.7.0

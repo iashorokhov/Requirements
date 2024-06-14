@@ -1,0 +1,10 @@
+matplotlib
+numpy
+pandas
+scikit-learn
+sqlalchemy
+catboost
+pyspark
+torch
+transformers
+tensorflow
